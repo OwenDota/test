@@ -1,0 +1,3 @@
+FileInputStream fileInputStream = new FileInputStream(FILE);
+
+		FileDescriptor fileDescriptor = fileInputStream.getFD();
